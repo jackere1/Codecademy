@@ -1,0 +1,21 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+body {
+    background-color: black;
+}
+
+header {
+    font-size: 50px;
+    text-align: center;
+    font-weight: normal;
+}
+
+a {
+    display: block;
+    color: aquamarine;
+    font-size: 16px;
+    text-align: center;
+    margin: 30px auto;
+}
